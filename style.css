@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+body{
+
+    background-color: white;
+
+
+}
+.main{
+    background-color: rgba(20, 44, 20, 0.342);
+    width: 500px;
+    margin: 90   auto;
+    height: 175px;
+    padding: 30px;
+
+    
+
+}
+.bash{
+background: turquoise;
+text-align: center;
+padding: 10px;
+font-weight: bold;
+position: absolute;
+width:200px ;
+top: 65px;
+left: 40%;
+margin-left:25px ;
+
+}
+#clock{
+background-color: rosybrown;
+text-align: center;
+font-size: 55px;
+height: 130px;
+padding-top: 30px;
+margin-bottom: 25px;
+font-family: 'Orbitron', sans-serif;
+border-radius: 4px;
+
+}
